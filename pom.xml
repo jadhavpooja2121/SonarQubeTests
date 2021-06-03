@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>jadhavpooja2121_SonarQubeTests</sonar.projectKey>
+  <sonar.organization>jadhavpooja2121</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
